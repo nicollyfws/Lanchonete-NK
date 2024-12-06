@@ -16,3 +16,10 @@ Se organizar na hora de receber seus pedidos da lanchonete.
 | 3. Funcionalidades Adicionais | Implementar as funcionalidades de excluir e concluir tarefas. | 1 dias           |
 | 4. Testes e Ajustes Finais| Realizar testes de usabilidade e corrigir possíveis bugs.    | 1 dia            |
 | 5. Documentação           | Criar e adicionar o arquivo README.md com as instruções e descrição do projeto. | 1 dia
+
+
+# Como Executar Este Projeto.
+
+Cole sso no seu terminal.
+
+<script src="https://gist.github.com/nicollyfws/2ab7e8c71f7a067a99815e8d43fb8c2d.js"></script>
