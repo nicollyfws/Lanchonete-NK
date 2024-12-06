@@ -5,9 +5,9 @@ Se organizar em um catálogo de lanches de uma lanchonete, na qual você pode ad
 Se organizar na hora de receber seus pedidos da lanchonete.
 
 # Funcionalidades 
-.Adicionar lanche
-.Excluir lanche
-.Comprar lanche
+ Adicionar lanche.
+ Excluir lanche.
+ Comprar lanche.
 
 | Etapa                        | Descrição                                                    | Duração Estimada |
 |------------------------------|--------------------------------------------------------------|------------------|
