@@ -20,6 +20,5 @@ Se organizar na hora de receber seus pedidos da lanchonete.
 
 # Como Executar Este Projeto.
 
-Cole sso no seu terminal.
+Cole isso no seu terminal.
 
-<script src="https://gist.github.com/nicollyfws/2ab7e8c71f7a067a99815e8d43fb8c2d.js"></script>
