@@ -9,6 +9,8 @@ Se organizar na hora de receber seus pedidos da lanchonete.
  Excluir lanche.
  Comprar lanche.
 
+ 
+
 | Etapa                        | Descrição                                                    | Duração Estimada |
 |------------------------------|--------------------------------------------------------------|------------------|
 | 1. Planejamento           | Definir escopo do projeto, funcionalidades principais e design da interface. |  dia            |
