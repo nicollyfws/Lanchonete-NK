@@ -19,8 +19,7 @@ Comprar lanche.
 | 4. Testes e Ajustes Finais| Realizar testes de usabilidade e corrigir possíveis bugs.    | 1 dia            |
 | 5. Documentação           | Criar e adicionar o arquivo README.md com as instruções e descrição do projeto. | 1 dia
 
+#URL
 
-# Como Executar Este Projeto.
-
-Cole isso no seu terminal.
+https://github.com/nicollyfws/Lanchonete-NK.git
 
