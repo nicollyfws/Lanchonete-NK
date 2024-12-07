@@ -23,3 +23,6 @@ Comprar lanche.
 
 https://github.com/nicollyfws/Lanchonete-NK.git
 
+#git
+
+git clone https://github.com/nicollyfws/Lista-de-Lanches.git
